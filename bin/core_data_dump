@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'core-data'
+puts "#{ARGV[0]}"
